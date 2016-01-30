@@ -4,7 +4,7 @@
 
   <inherits name='com.google.gwt.user.theme.clean.Clean'/>
 
-  <entry-point class='com.jooink.experiments.jsinterop.client.Getusermedia_jsinterop_sample'/>
+  <entry-point class='com.jooink.experiments.jsinterop.getusermedia.client.Getusermedia_jsinterop_sample'/>
 
   <source path='client'/>
 
